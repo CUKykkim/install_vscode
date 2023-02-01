@@ -17,7 +17,6 @@
 
 - 각자의 OS 환경에 맞는 `VScode` 를 설치한다.
 
-![1](./images/1.png)
 
 
 ## VScode Extension 설치
@@ -25,6 +24,7 @@
 
 - 설치된 vscode를 열어 extension 메뉴를 클릭한다.
 
+![1](./images/1.png)
 
   
 ## 개발 환경 설정 테스트
