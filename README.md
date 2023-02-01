@@ -7,7 +7,7 @@
 - 각자의 OS 환경에 맞는 python을 설치한다. 
 
 
-![1](./images/1.png)
+
 
 
 
@@ -16,6 +16,8 @@
 - VScode를 설치하기 위해 [Visual Studio 공식홈페이지](https://code.visualstudio.com/download)로 들어간다.
 
 - 각자의 OS 환경에 맞는 `VScode` 를 설치한다.
+
+![1](./images/1.png)
 
 
 ## VScode Extension 설치
