@@ -3,7 +3,7 @@
 
 ## Python 설치
 
-- 파이썬을 설치하기 위해 [파이썬 공식홈페이지](https://www.python.org/downloads/, "python.org") 사이트로 들어간다.
+- 파이썬을 설치하기 위해 [파이썬 공식홈페이지](https://www.python.org/downloads/) 사이트로 들어간다.
 - 각자의 OS 환경에 맞는 python을 설치한다. 
 
 
